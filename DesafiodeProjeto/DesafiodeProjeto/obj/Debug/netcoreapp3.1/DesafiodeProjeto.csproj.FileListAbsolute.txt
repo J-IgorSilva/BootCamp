@@ -12,3 +12,17 @@ D:\Praticando\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\Desafiod
 D:\Praticando\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.dll
 D:\Praticando\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.pdb
 D:\Praticando\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.genruntimeconfig.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\bin\Debug\netcoreapp3.1\DesafiodeProjeto.exe
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\bin\Debug\netcoreapp3.1\DesafiodeProjeto.deps.json
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\bin\Debug\netcoreapp3.1\DesafiodeProjeto.runtimeconfig.json
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\bin\Debug\netcoreapp3.1\DesafiodeProjeto.runtimeconfig.dev.json
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\bin\Debug\netcoreapp3.1\DesafiodeProjeto.dll
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\bin\Debug\netcoreapp3.1\DesafiodeProjeto.pdb
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.csproj.AssemblyReference.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.AssemblyInfoInputs.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.AssemblyInfo.cs
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.csproj.CoreCompileInputs.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.dll
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.pdb
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\obj\Debug\netcoreapp3.1\DesafiodeProjeto.genruntimeconfig.cache

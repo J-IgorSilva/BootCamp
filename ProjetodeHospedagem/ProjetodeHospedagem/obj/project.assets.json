@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITHUB\\Bootcamps\\BotcampsDio\\BootdampsProjetos\\DesafiodeProjeto\\DesafiodeProjeto\\DesafiodeProjeto.csproj",
-      "projectName": "DesafiodeProjeto",
-      "projectPath": "D:\\GITHUB\\Bootcamps\\BotcampsDio\\BootdampsProjetos\\DesafiodeProjeto\\DesafiodeProjeto\\DesafiodeProjeto.csproj",
+      "projectUniqueName": "D:\\GITHUB\\Bootcamps\\BotcampsDio\\BootdampsProjetos\\DesafiodeProjeto\\DesafiodeProjeto\\ProjetodeHospedagem\\ProjetodeHospedagem\\ProjetodeHospedagem.csproj",
+      "projectName": "ProjetodeHospedagem",
+      "projectPath": "D:\\GITHUB\\Bootcamps\\BotcampsDio\\BootdampsProjetos\\DesafiodeProjeto\\DesafiodeProjeto\\ProjetodeHospedagem\\ProjetodeHospedagem\\ProjetodeHospedagem.csproj",
       "packagesPath": "C:\\Users\\zeus8\\.nuget\\packages\\",
-      "outputPath": "D:\\GITHUB\\Bootcamps\\BotcampsDio\\BootdampsProjetos\\DesafiodeProjeto\\DesafiodeProjeto\\obj\\",
+      "outputPath": "D:\\GITHUB\\Bootcamps\\BotcampsDio\\BootdampsProjetos\\DesafiodeProjeto\\DesafiodeProjeto\\ProjetodeHospedagem\\ProjetodeHospedagem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zeus8\\AppData\\Roaming\\NuGet\\NuGet.Config",
