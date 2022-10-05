@@ -1,8 +1,5 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
-
 
 namespace ProjetodeHospedagem.Models
 {
@@ -21,17 +18,19 @@ namespace ProjetodeHospedagem.Models
 
         public void CadastrarHospedes(List<Pessoa> hospedes)
         {
+            int capacidade = Suite.Capacidade;
             // TODO: Verificar se a capacidade é maior ou igual ao número de hóspedes sendo recebido
-            
             // *IMPLEMENTE AQUI*
-            if ()
+            if (capacidade >= hospedes.Count)
             {
-
+               Console.WriteLine("Cadastro realizado com sucesso");
             }
             else
             {
                 // TODO: Retornar uma exception caso a capacidade seja menor que o número de hóspedes recebido
+                Exception mensagem = new Exception("erro");
                 // *IMPLEMENTE AQUI*
+                global::System.Console.WriteLine(mensagem);
             }
         }
 
@@ -43,22 +42,24 @@ namespace ProjetodeHospedagem.Models
         public int ObterQuantidadeHospedes()
         {
             // TODO: Retorna a quantidade de hóspedes (propriedade Hospedes)
+            int quantidade = Suite.Capacidade;
             // *IMPLEMENTE AQUI*
-            return 0;
+            return quantidade;
         }
 
         public decimal CalcularValorDiaria()
         {
             // TODO: Retorna o valor da diária
             // Cálculo: DiasReservados X Suite.ValorDiaria
+
             // *IMPLEMENTE AQUI*
-            decimal valor = 0;
+            decimal valor = DiasReservados * Suite.ValorDiaria;
 
             // Regra: Caso os dias reservados forem maior ou igual a 10, conceder um desconto de 10%
             // *IMPLEMENTE AQUI*
-            if (true)
+            if (DiasReservados >= 10)
             {
-                valor = 0;
+                valor = valor * 10 / 100;
             }
 
             return valor;
