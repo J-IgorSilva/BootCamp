@@ -1,0 +1,16 @@
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.csproj.AssemblyReference.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.AssemblyInfoInputs.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.AssemblyInfo.cs
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.csproj.CoreCompileInputs.cache
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ProjetodeHospedagem.exe
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ProjetodeHospedagem.deps.json
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ProjetodeHospedagem.runtimeconfig.json
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ProjetodeHospedagem.runtimeconfig.dev.json
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ProjetodeHospedagem.dll
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ref\ProjetodeHospedagem.dll
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\bin\Debug\net5.0\ProjetodeHospedagem.pdb
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.dll
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ref\ProjetodeHospedagem.dll
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.pdb
+D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\net5.0\ProjetodeHospedagem.genruntimeconfig.cache
