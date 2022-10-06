@@ -1,5 +1,0 @@
-D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\netcoreapp3.1\ProjetodeHospedagem.csproj.AssemblyReference.cache
-D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\netcoreapp3.1\ProjetodeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
-D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\netcoreapp3.1\ProjetodeHospedagem.AssemblyInfoInputs.cache
-D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\netcoreapp3.1\ProjetodeHospedagem.AssemblyInfo.cs
-D:\GITHUB\Bootcamps\BotcampsDio\BootdampsProjetos\DesafiodeProjeto\DesafiodeProjeto\ProjetodeHospedagem\ProjetodeHospedagem\obj\Debug\netcoreapp3.1\ProjetodeHospedagem.csproj.CoreCompileInputs.cache
