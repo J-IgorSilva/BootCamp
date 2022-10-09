@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace DesafioPooApp
+namespace DesafioPooApp.Models
 {
-    class Program
+    public class Program 
     {
         static void Main(string[] args)
         {
+            Iphone celular = new Iphone("85985998584", "XR2022", "431233212343243", 256);
             Console.WriteLine("Hello World!");
         }
     }
